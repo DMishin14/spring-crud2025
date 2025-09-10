@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SpringCrud:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4415b312-dd6c-44c0-88c9-abe44e24a4ca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCrud.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCrud/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCrud/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCrud/src/main/java/web/config/AppInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCrud/src/main/java/web/config/DBConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCrud/src/main/java/web/config/SpringConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCrud/src/main/java/web/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCrud/src/main/java/web/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCrud/src/main/java/web/dao/UserDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCrud/src/main/java/web/dao/UserDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCrud/src/main/java/web/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCrud/src/main/java/web/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCrud/src/main/java/web/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCrud/src/main/resources/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCrud/src/main/webapp/WEB-INF/pages/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCrud/src/main/webapp/WEB-INF/pages/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCrud/src/main/webapp/WEB-INF/pages/new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCrud/src/main/webapp/WEB-INF/pages/show.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-2/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-2/src/main/java/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-2/src/main/java/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-2/src/main/java/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-2/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-2/target/classes/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-2/target/classes/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-2/target/classes/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-2/target/classes/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-2/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-2/target/spring-helloworld-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-2/target/surefire-reports/AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-2/target/surefire-reports/TEST-AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-2/target/test-classes/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-3.1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-3.1/src/main/java/app/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-3.1/src/main/java/app/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-3.1/src/main/java/app/model/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-3.1/src/main/java/app/model/AnimalsCage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-3.1/src/main/java/app/model/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-3.1/src/main/java/app/model/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-3.1/src/main/java/app/model/Timer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-3.1/src/test/java/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-3.1/target/classes/app/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-3.1/target/classes/app/config/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-3.1/target/classes/app/model/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-3.1/target/classes/app/model/AnimalsCage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-3.1/target/classes/app/model/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-3.1/target/classes/app/model/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-3.1/target/classes/app/model/Timer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-3.1/target/test-classes/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/src/main/java/koschei/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/src/main/java/koschei/KoscheiTheDeathless.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/src/main/java/koschei/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/src/main/java/koschei/models/Deth8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/src/main/java/koschei/models/Duck5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/src/main/java/koschei/models/Egg6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/src/main/java/koschei/models/Island2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/src/main/java/koschei/models/Needle7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/src/main/java/koschei/models/Ocean1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/src/main/java/koschei/models/Rabbit4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/src/main/java/koschei/models/Wood3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/src/test/java/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/target/classes/koschei/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/target/classes/koschei/KoscheiTheDeathless.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/target/classes/koschei/config/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/target/classes/koschei/models/Deth8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/target/classes/koschei/models/Duck5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/target/classes/koschei/models/Egg6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/target/classes/koschei/models/Island2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/target/classes/koschei/models/Needle7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/target/classes/koschei/models/Ocean1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/target/classes/koschei/models/Rabbit4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-4/target/classes/koschei/models/Wood3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/spring_hibernate.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/src/main/java/hiber/MainApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/src/main/java/hiber/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/src/main/java/hiber/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/src/main/java/hiber/dao/UserDaoImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/src/main/java/hiber/model/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/src/main/java/hiber/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/src/main/java/hiber/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/src/main/java/hiber/service/UserServiceImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/src/main/resources/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/target/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/target/classes/hiber/MainApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/target/classes/hiber/config/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/target/classes/hiber/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/target/classes/hiber/dao/UserDaoImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/target/classes/hiber/model/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/target/classes/hiber/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/target/classes/hiber/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-5/target/classes/hiber/service/UserServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/config/AppInit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/config/DBConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/config/SpringConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/dao/UserDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/dao/UserDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/service/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/FastInfoset-1.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/attoparser-2.0.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/byte-buddy-1.11.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/checker-qual-3.31.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/classmate-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/hibernate-commons-annotations-5.1.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/hibernate-core-5.6.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/jandex-2.2.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/jboss-logging-3.4.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/postgresql-42.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-aop-5.3.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-beans-5.3.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-context-5.3.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-core-5.3.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-expression-5.3.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-jcl-5.3.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-jdbc-5.3.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-orm-5.3.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-tx-5.3.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-web-5.3.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-webmvc-5.3.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/stax-ex-1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/thymeleaf-3.0.14.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/thymeleaf-spring5-3.0.14.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/txw2-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/unbescape-1.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/pages/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/pages/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/pages/new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/pages/show.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/config/AppInit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/config/DBConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/config/SpringConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/dao/UserDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/dao/UserDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/web/service/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring_mvc.war" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="32WLy7KuU9jhYxPfWby0DDOTrnf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.spring-mvc [clean].executor": "Run",
+    "Maven.spring-mvc [install].executor": "Run",
+    "Maven.spring-mvc [package].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Tomcat Server.Tomcat 9.0.89.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user/SpringCrud",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Spring Crud\SpringCrud" />
+      <recent name="C:\Users\user\Spring Crud\src\main\resources\META-INF" />
+      <recent name="C:\Users\user\Spring Crud\src\main\webapp" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="web.config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Spring Crud" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Spring Crud" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.89" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.89" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SpringCrud:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/SpringCrud_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="966cbf36-e49b-431b-9670-16d1e8442d83" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55323" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SpringCrud:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4415b312-dd6c-44c0-88c9-abe44e24a4ca" name="Changes" comment="" />
+      <created>1757531636688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757531636688</updated>
+      <workItem from="1757531640694" duration="14172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
